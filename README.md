@@ -30,22 +30,6 @@ Before you begin, ensure you have the following installed:
 - A code editor (e.g., Visual Studio Code)
 - Basic understanding of web development concepts
 
-## 🔧 Installation
-
-1. Clone the repository:
-
-```bash
-git clone [repository-url]
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd Faculty-of-Specific-Education-Landing-Page
-```
-
-3. Open the project in your preferred code editor
-
 ## 🚀 Usage
 
 This project serves as a learning exercise and demonstration of web development skills. To view the project:
@@ -58,11 +42,17 @@ This project serves as a learning exercise and demonstration of web development 
 
 ```
 Faculty-of-Specific-Education-Landing-Page/
-├── index.html          # Main HTML file
-├── css/               # Stylesheets
-├── js/                # JavaScript files
-├── images/            # Image assets
-└── README.md          # Project documentation
+├── index.html              # Main landing page
+├── styles.css              # Main stylesheet
+├── script.js              # Main JavaScript file
+├── departments/           # Department pages
+│   ├── department-art.html
+│   ├── department-computer.html
+│   ├── department-music.html
+│   └── department-theater.html
+├── hero-bg.jpg            # Hero section background
+├── logo.png               # Faculty logo
+└── README.md              # Project documentation
 ```
 
 ## 👨‍🎓 Student Information
