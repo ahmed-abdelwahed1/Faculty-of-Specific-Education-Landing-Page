@@ -1,0 +1,25 @@
+Faculty of Specific Education Website Project - Mansoura University
+
+Project Overview:
+This project is a landing page website for the Faculty of Specific Education at Mansoura University.
+The website was developed as part of a web development course project.
+
+Project Features:
+- Modern and attractive design
+- User-friendly interface
+- Fully responsive design for all devices
+- Multiple departments including: Computer Science, Theater Education, Music Education, and Art Education
+
+Technologies Used:
+- HTML
+- CSS3
+- JavaScript
+- Font Awesome for icons
+- Google Fonts for typography
+
+Developer:
+Ahmed Shehata Said Abdelwahed
+Student at Faculty of Specific Education - Mansoura University
+
+Development Date:
+May 2025
